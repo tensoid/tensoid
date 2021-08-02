@@ -9,7 +9,7 @@ Build started...
          Pronouns     -> He\Him
          Hobbies      -> Coding, Gaming, Making Music
          Languages    -> JavaScript, C-Sharp, C, HTML, CSS
-         Other        -> Node.js, Express, Discord.js, 
+         Other        -> Node.js, Express, Discord.js
          Location     -> Germany
          Organization -> OpenByteCollective
          Discord      -> tensoid6083
