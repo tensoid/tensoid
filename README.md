@@ -20,7 +20,7 @@ Build started...
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
      <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=tensoid&theme=dark&hide_border=true&background=00000000&count_private=true&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
+      src="https://github-readme-streak-stats.herokuapp.com?user=tensoid&theme=dark&hide_border=true&background=00000000&count_private=true&ring=DA70D6&fire=FF5C5C&currStreakLabel=DA70D6"
       align="left"
       style="width: 100%"
       width="47%"
@@ -30,7 +30,7 @@ Build started...
   
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=tensoid&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=02FAFC"
+      src="https://github-readme-stats.vercel.app/api?username=tensoid&hide_title=true&hide_border=true&bg_color=00000000&text_color=FFFFFF&title_color=DA70D6"
       align="right"
       width="47%"
     />
