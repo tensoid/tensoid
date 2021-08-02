@@ -5,13 +5,14 @@
 Build started...
 1>------ Build started: Project: Felix Plate, Configuration: Debug Any CPU ------
 
-         Felix Plate -> C:\Users\Tensoid\Felix_Plate.exe
-         Pronouns -> He/Him
-         Hobbys -> Coding, Gaming, Making Music
-         Languages -> JavaScript, C#, C, HTML, CSS
-         Other -> Node.js, Express
-         Location -> Germany
-         Discord -> tensoid#6083
+         Felix Plate  -> C:\Users\Tensoid\Felix_Plate.exe
+         Pronouns     -> He\Him
+         Hobbies      -> Coding, Gaming, Making Music
+         Languages    -> JavaScript, C-Sharp, C, HTML, CSS
+         Other        -> Node.js, Express, Discord.js, 
+         Location     -> Germany
+         Organization -> OpenByteCollective
+         Discord      -> tensoid6083
          
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 ```
