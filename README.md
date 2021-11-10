@@ -22,7 +22,7 @@ Build started...
      <img
       src="https://github-readme-streak-stats.herokuapp.com?user=tensoid&theme=dark&hide_border=true&background=00000000&count_private=true&ring=D2A8FF&fire=FF7B72&currStreakLabel=D2A8FF"
       align="left"
-      style="width: 100%"
+      style="width: 47%"
       width="47%"
     />
   </a>
