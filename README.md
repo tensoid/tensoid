@@ -12,7 +12,7 @@ Build started...
          Other        -> Node.js, Express, Discord.js
          Location     -> Germany
          Organization -> OpenByteCollective
-         Discord      -> tensoid6083
+         Discord      -> tensoid4162
          
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 ```
