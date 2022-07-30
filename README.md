@@ -8,11 +8,11 @@ Build started...
          Felix Plate  -> C:\Users\Tensoid\Felix_Plate.exe
          Pronouns     -> He\Him
          Hobbies      -> Coding, Gaming, Making Music
-         Languages    -> JavaScript, C-Sharp, C, HTML, CSS
-         Other        -> Node.js, Express, Discord.js
+         Languages    -> JavaScript, C-Sharp, Rust, HTML, CSS, Java
+         Other        -> Node.js, Express, Bevy
          Location     -> Germany
-         Organization -> OpenByteCollective
-         Discord      -> tensoid4162
+         Organization -> MeldLabs
+         Discord      -> tensoid3716
          
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 ```
