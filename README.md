@@ -1,21 +1,7 @@
 
 <!--<img src="https://wakatime.com/share/@tensoid/42cd9b58-4008-481f-99f0-cd006f171669.svg">-->
 
-``` c#
-Build started...
-1>------ Build started: Project: Felix Plate, Configuration: Debug Any CPU ------
-
-         Felix Plate  -> C:\Users\Tensoid\Felix_Plate.exe
-         Pronouns     -> He\Him
-         Hobbies      -> Coding, Gaming, Making Music
-         Languages    -> JavaScript, C-Sharp, Rust, HTML, CSS, Java
-         Other        -> Node.js, Express, Bevy
-         Location     -> Germany
-         Organization -> MeldLabs
-         Discord      -> tensoid3716
-         
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-```
+This is some hot garbage 💯
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
